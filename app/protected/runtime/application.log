@@ -1,0 +1,99 @@
+2018/03/23 11:18:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:34:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:49:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:49:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:50:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:50:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:51:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:54:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:55:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
+2018/03/23 11:56:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "member/CheckLogin".' in C:\AppServ\www\iservice\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\AppServ\www\iservice\framework\web\CWebApplication.php(141): CWebApplication->runController('member/CheckLog...')
+#1 C:\AppServ\www\iservice\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\AppServ\www\iservice\app\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/iservice/app/index.php?r=member/CheckLogin
+HTTP_REFERER=http://localhost/iservice/app/index.php
+---
